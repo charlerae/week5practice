@@ -1,0 +1,31 @@
+
+body {
+    background-color: rgb(204, 221, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#flexer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+button {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    font-size: large;
+}
+
+#item-info {
+    max-width: 360px;
+}
+
+#intro {
+    display: flex;
+    justify-content: center;
+}
